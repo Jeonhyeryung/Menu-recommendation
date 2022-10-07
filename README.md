@@ -14,7 +14,8 @@ B조: C조였으면 추천C스템
 # 💻 활용 장비
 **개발환경**
 - Ubuntu 18.04.6 LTS
-- GPU Tesla T4  
+- GPU Tesla T4 
+ 
 **Colaborate**
 - Notion
 - Zoom
