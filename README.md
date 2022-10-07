@@ -67,7 +67,7 @@ SessionID(userID)|time stamp|Menu|MenuId|category|property|
 </p>
 
 - Transformer 기반의 모델인 BERT4Rec의 성능이 가장 좋은 것을 확인 가능 </br>
-- 메뉴 추천 결과 예시  
+**메뉴 추천 결과 예시**  
    
 |먹은 메뉴|추천 메뉴|
 |:---:|:---:|
