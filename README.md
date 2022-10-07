@@ -1,10 +1,10 @@
-<p align="center"><img width="700" alt="image" src="https://user-images.githubusercontent.com/61443621/194584545-e3e17f3e-18f0-4d89-8159-dfa0f1fdd402.png"></p>
+<p align="center"><img width="600" alt="image" src="https://user-images.githubusercontent.com/61443621/194584545-e3e17f3e-18f0-4d89-8159-dfa0f1fdd402.png"></p>
 
 <div align="center">
 
   
 ## Menu Recommendation
-### B조: C조였으면 추천C스템
+B조: C조였으면 추천C스템
   
 </div>
 
