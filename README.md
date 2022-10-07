@@ -27,7 +27,7 @@ B조: C조였으면 추천C스템
 - **손승진**:
 - **전혜령**: 
 
-# 📜 개요
+# 📌 개요
 <p align="center"><img width="750" alt="image" src="https://user-images.githubusercontent.com/61443621/194619777-01170383-32b3-4413-8c7e-ff8fa26aaf86.png">
 </p>
 
