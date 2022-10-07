@@ -48,7 +48,7 @@ B조: C조였으면 추천C스템
 
 **사용한 데이터프레임 형식 예시**
 
-Session ID(user ID)|time stamp|Menu|Menu id|category|property|
+SessionID(userID)|time stamp|Menu|MenuId|category|property|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |0|0|마라샹궈|0|중식|볶음류|
 |0|1|고등어구이|1|한식|구이류|
