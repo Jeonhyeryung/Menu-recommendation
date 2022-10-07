@@ -46,6 +46,12 @@ B조: C조였으면 추천C스템
 - category, property column 추가하여 사용  
 - [나이스 교육정보 개방 포털 급식 식단 정보 데이터셋](https://open.neis.go.kr/portal/data/service/selectServicePage.do?page=1&rows=10&sortColumn=&sortDirection=&infId=OPEN17320190722180924242823&infSeq=1)
 
+**설문조사 데이터셋**
+- 51명을 대상으로 지난 3일 동안 먹은 메뉴 조사
+  - 1일째 아침/점심/저녁, 2일째 아침/점심/저녁, 3일째 아침/점심/저녁
+- 일부 메뉴들에 대해서는 위의 구내 식당 식단 데이터셋, 급식 식단 정보 데이터셋의 메뉴명으로 통일 (ex. 돼지갈비 → 돼지갈비찜) 
+  - 동일 메뉴에 대해 MenuID를 동일하게 가져가기 위함  
+
 **사용한 데이터프레임 형식 예시**
 
 SessionID(userID)|time stamp|Menu|MenuId|category|property|
@@ -56,5 +62,12 @@ SessionID(userID)|time stamp|Menu|MenuId|category|property|
 
 
 # 모델 결과 
+<p align="center"><img width="750" alt="image" src="https://user-images.githubusercontent.com/61443621/194623868-f7d6f63c-9c48-433c-86e0-230fd451731e.png">
+</p>
+- Transformer 기반의 모델인 BERT4Rec의 성능이 가장 좋은 것을 확인 가능
+- 메뉴 추천 결과 예시    
+먹은 메뉴|추천 메뉴|
+|:---:|:---:|
+|제육볶음, 삼겹살 구이, 간장 계란장, 청국장 찌개, 컵라면&찐계란, 시리얼 과일 샐러드, 된장찌개 | 동파삼겹수육 |
 
 # 프로젝트 결과
