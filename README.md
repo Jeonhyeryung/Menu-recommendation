@@ -28,7 +28,8 @@ B조: C조였으면 추천C스템
 
 # 개요
 - 다양한 모델의 실험을 실험하여 가장 Hit rate가 좋은 모델 서치 후, 자체적으로 수정한 Hit rate를 적용하여 모델 성능 평가
-<p align="center"><img width="750" alt="image" src="https://user-images.githubusercontent.com/61443621/194598242-16b178e9-6fa0-4af9-be72-aec834ceddd5.png"></p>
+<p align="center"><img width="750" alt="image" src="https://user-images.githubusercontent.com/61443621/194598433-b7329be3-416b-4baa-b34c-683d31ec01c1.png">
+</p>
 
 # 데이터 전처리
 
