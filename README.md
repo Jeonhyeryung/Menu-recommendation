@@ -62,11 +62,12 @@ SessionID(userID)|time stamp|Menu|MenuId|category|property|
 |0|2|피자|2|양식|패스트푸드류|
 
 
-# 모델 결과 
+# 📝 모델 결과 
 <p align="center"><img width="750" alt="image" src="https://user-images.githubusercontent.com/61443621/194623868-f7d6f63c-9c48-433c-86e0-230fd451731e.png">
 </p>
 
-- Transformer 기반의 모델인 BERT4Rec의 성능이 가장 좋은 것을 확인 가능 </br>
+- Transformer 기반의 모델인 BERT4Rec의 성능이 가장 좋은 것을 확인 가능 
+
 **메뉴 추천 결과 예시**  
    
 |먹은 메뉴|추천 메뉴|
