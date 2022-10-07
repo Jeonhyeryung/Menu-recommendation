@@ -12,10 +12,10 @@ B조: C조였으면 추천C스템
 - 사용자가 최근 먹었던 메뉴를 고려하여 사용자가 선호할 메뉴를 추천
 
 # 💻 활용 장비
-## 개발환경
+**개발환경**
 - Ubuntu 18.04.6 LTS
 - GPU Tesla T4
-## Colaborate
+**Colaborate**
 - Notion
 - Zoom
 
@@ -28,6 +28,7 @@ B조: C조였으면 추천C스템
 
 # 개요
 - 다양한 모델의 실험을 실험하여 가장 Hit rate가 좋은 모델 서치 후, 자체적으로 수정한 Hit rate를 적용하여 모델 성능 평가
+<p align="center"><img width="958" alt="image" src="https://user-images.githubusercontent.com/61443621/194597787-8f2f5793-dcc5-4475-acf6-52685fddb757.png"></p>
 
 # 데이터 전처리
 
