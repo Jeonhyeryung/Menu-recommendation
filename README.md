@@ -1,6 +1,7 @@
 <div align="center">
-B조 C조 였으면 추천C스템 <br/>
-## Menu Recommendation
+**B조: C조 였으면 추천C스템** <br/>
+  
+##Menu Recommendation
   
 </div>
 
