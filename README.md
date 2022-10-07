@@ -28,7 +28,7 @@ B조: C조였으면 추천C스템
 - **전혜령**: 
 
 # 📄 개요
-<p align="center"><img width="750" alt="image" src="https://user-images.githubusercontent.com/61443621/194619562-7c2f84fc-e0fb-49fa-87fd-6c5ca6820ef5.png">
+<p align="center"><img width="750" alt="image" src="https://user-images.githubusercontent.com/61443621/194619777-01170383-32b3-4413-8c7e-ff8fa26aaf86.png">
 </p>
 - 다양한 모델의 실험을 실험하여 가장 Hit rate가 좋은 모델 서치 후, 자체적으로 수정한 Hit rate를 적용하여 모델 성능 평가
 
