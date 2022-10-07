@@ -35,14 +35,14 @@ B조: C조였으면 추천C스템
 # 📊 데이터 소개
 **데이콘 구내 식당 식단 데이터셋**
 - 각 조식메뉴, 중식메뉴, 석식메뉴 별로 메인 메뉴추출
-- 날짜 및 시간 순서대로 SessinID 부여
+- 날짜 및 시간 순서대로 SessionID 부여
 - category, property column 추가하여 사용  
 - [데이콘 구내 식당 식단 데이터셋](https://dacon.io/competitions/official/235743/data)
 
 **나이스 교육정보 개방 포털 급식 식단 정보 데이터셋**
 - 총 409일의 가락고 식단표 
 - 중식메뉴 별로 메인메뉴 1가지 추출
-- 날짜 순서대로 SessinID 부여하여 사용
+- 날짜 순서대로 SessionID 부여
 - category, property column 추가하여 사용  
 - [나이스 교육정보 개방 포털 급식 식단 정보 데이터셋](https://open.neis.go.kr/portal/data/service/selectServicePage.do?page=1&rows=10&sortColumn=&sortDirection=&infId=OPEN17320190722180924242823&infSeq=1)
 
