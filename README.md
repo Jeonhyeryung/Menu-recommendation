@@ -65,8 +65,9 @@ SessionID(userID)|time stamp|Menu|MenuId|category|property|
 <p align="center"><img width="750" alt="image" src="https://user-images.githubusercontent.com/61443621/194623868-f7d6f63c-9c48-433c-86e0-230fd451731e.png">
 </p>
 - Transformer 기반의 모델인 BERT4Rec의 성능이 가장 좋은 것을 확인 가능
-- 메뉴 추천 결과 예시    
-먹은 메뉴|추천 메뉴|
+- 메뉴 추천 결과 예시 
+   
+|먹은 메뉴|추천 메뉴|
 |:---:|:---:|
 |제육볶음, 삼겹살 구이, 간장 계란장, 청국장 찌개, 컵라면&찐계란, 시리얼 과일 샐러드, 된장찌개 | 동파삼겹수육 |
 
