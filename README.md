@@ -85,7 +85,7 @@ SessionID(userID)|time stamp|Menu|MenuId|category|property|
 
 - 위와 같이 활용 가능할 것으로 기대됨
 
-# Reference
+# 💭 Reference
 https://lsjsj92.tistory.com/590  
 https://greeksharifa.github.io/machine_learning/2021/07/03/SRGNN/  
 https://github.com/SeongBeomLEE/RecsysTutorial  
