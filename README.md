@@ -10,7 +10,7 @@ B조: C조였으면 추천C스템
 
 # 💫 프로젝트 목표
 - 사용자가 최근 먹었던 메뉴를 고려하여 사용자가 선호할 메뉴 3개를 추천
-- Our project is to train the BERT4Rec model using the diet table data and survey data. It recommends a new menu based on what the user has eaten so far. 
+- This service recommends a new menu based on what the user has eaten so far using the BERT4Rec model trained by the menu planner data and the survey data.
 
 # 💻 활용 장비
 **개발환경**
