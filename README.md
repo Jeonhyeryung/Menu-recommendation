@@ -79,7 +79,7 @@ SessionID(userID)|time stamp|Menu|MenuId|category|property|
 |:---:|:---:|
 |제육볶음, 삼겹살 구이, 간장 계란장, 청국장 찌개, 컵라면&찐계란, 시리얼 과일 샐러드, 된장찌개 | 동파삼겹수육 |
 
-# 🎈 프로젝트 결과
+# 📱 프로젝트 결과
 <p align="center"><img width="700" alt="image" src="https://user-images.githubusercontent.com/61443621/194756391-6977844a-ee98-4fc6-8b5d-239437768e56.png">
 </p>
 
