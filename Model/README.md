@@ -9,9 +9,8 @@
     ```bash
     ├── data
       ├── train
-      ├── <span style="color:black">test</span>     
+      │   ├── menu_final.csv  
     ```
-
 2. Main Training
    ```
    python run_train.py --model_name BERT4Rec 
