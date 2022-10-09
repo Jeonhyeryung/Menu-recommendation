@@ -6,11 +6,11 @@
 ## How to run
 
 1. Using your own dataset.
-```bash
-├── data
-    ├── train
-    ├── test
-```
+    ```bash
+    ├── data
+      ├── train
+      ├── test
+    ```
 
 2. Main Training
    ```
