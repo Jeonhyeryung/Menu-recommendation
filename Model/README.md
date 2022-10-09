@@ -5,7 +5,7 @@
 
 ## How to run
 
-1. Using your own dataset
+1. Preparing your datasets
     ```bash
     ├── data
       ├── train
